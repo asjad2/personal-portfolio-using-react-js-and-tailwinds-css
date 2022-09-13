@@ -1,0 +1,8 @@
+
+const OffersData=[
+    {id:1, category:"Web Development", title:"HTML & CSS Developer", description1:"Bug or Error Fixing",description2:"Making Page Responsive",description3:"Design to Website",description4:"Frontend Development",description5:"Backend Development",description6:"Full Stack Web Application",description7:"Please Provide any necessary details in any Format", message:"Please choose any of above option and then click on Hire"},
+    {id:2, category:"Web Development", title:"Front-end Developer", description1:"Bug or Error Fixing",description2:"Making Page Responsive",description3:"Design to Website",description4:"Frontend Development",description5:"Backend Development",description6:"Full Stack Web Application",description7:"Please Provide any necessary details in any Format", message:"Please choose any of above option and then click on Hire"},
+    {id:3, category:"Web Development", title:"MERN Stack Developer", description1:"Bug or Error Fixing",description2:"Making Page Responsive",description3:"Design to Website",description4:"Frontend Development",description5:"Backend Development",description6:"Full Stack Web Application",description7:"Please Provide any necessary details in any Format", message:"Please choose any of above option and then click on Hire"},
+    {id:4, category:"Web Development", title:"WordPress Developer", description1:"Bug or Error Fixing",description2:"Making Page Responsive",description3:"Design to Website",description4:"Frontend Development",description5:"Backend Development",description6:"Full Stack Web Application",description7:"Please Provide any necessary details in any Format", message:"Please choose any of above option and then click on Hire"},
+];
+export default OffersData;

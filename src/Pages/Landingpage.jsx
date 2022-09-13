@@ -1,12 +1,13 @@
 import Header from "../Components/Header";
-import Footer from "../Components/Footer";
 import Features from "../Components/Features";
+import Steps from "../Components/Steps";
 
 const Landingpage = () => {
     return ( 
         <div>
       <Header />
       <Features/>
+      <Steps/>
       
     </div>
      );

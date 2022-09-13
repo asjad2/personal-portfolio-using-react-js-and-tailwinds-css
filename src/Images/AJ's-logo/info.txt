@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: OFLGoudyStMTT
+font link: https://fonts.google.com/specimen/Sorts+Mill+Goudy
+font author: Barry Schwartz
+font author site: http://crudfactory.com/
+Slogan Font: KaushanScript-Regular.ttf
+
+icon designer: Alfredo @ IconsAlfredo.us
+icon designer link: /AlfredoCreates
+        
+{"bg":"#EAF2EF","icon-gradient-0":"#0A3732","icon-gradient-1":"#55C388","font":"#0E261C","slogan":"#223a30"}
+      
